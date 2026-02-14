@@ -2,6 +2,18 @@
 
 All notable changes to FlixeloAd SDK will be documented in this file.
 
+## [1.0.2] - 2026-02-14
+
+### Added
+- Complete example app demonstrating all SDK features
+- Comprehensive dartdoc comments for public API
+- Example README with usage instructions
+
+### Improved
+- Better documentation for AdConfig class
+- Detailed parameter descriptions
+- Code examples in documentation
+
 ## [1.0.1] - 2026-02-14
 
 ### Changed
