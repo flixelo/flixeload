@@ -2,6 +2,13 @@
 
 All notable changes to FlixeloAd SDK will be documented in this file.
 
+## [1.0.1] - 2026-02-14
+
+### Changed
+- Updated LICENSE to MIT (OSI-approved)
+- Removed non-existent documentation URL
+- Fixed repository and issue tracker URLs
+
 ## [1.0.0] - 2026-02-10
 
 ### Added
