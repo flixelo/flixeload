@@ -2,8 +2,8 @@ name: flixeload_sdk
 description: FlixeloAd SDK - A Flutter plugin for integrating FlixeloAd mobile advertising network. Display banner, interstitial, native, and rewarded ads.
 version: 1.0.0
 homepage: https://flixeload.com
-repository: https://github.com/flixelo/flixeload_sdk
-issue_tracker: https://github.com/flixelo/flixeload_sdk/issues
+repository: https://github.com/flixelo/flixeload
+issue_tracker: https://github.com/flixelo/flixeload/issues
 documentation: https://docs.flixeload.com
 
 environment:
